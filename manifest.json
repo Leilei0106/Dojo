@@ -1,0 +1,27 @@
+{
+  "name": "Ninjago Lennox Dojo",
+  "short_name": "Lennox Dojo",
+  "description": "12 Spinjitzu-Herausforderungen für junge Ninja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0A0E1A",
+  "theme_color": "#FFC700",
+  "lang": "de-DE",
+  "categories": ["education", "games", "kids"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
